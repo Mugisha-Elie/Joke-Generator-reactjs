@@ -2,7 +2,7 @@
   "name": "joke-generator",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://mugisha-elie.github.io/joke-generator-repo",
+  "homepage": "https://Mugisha-Elie.github.io/Joke-Generator-reactjs",
   "type": "module",
   "scripts": {
     "dev": "vite",
